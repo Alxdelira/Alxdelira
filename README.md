@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT,
 - 💞️ I am learning
 - 📫 Linkedin: www.linkedin.com/in/alxdelira
+- <> Google Developer: g.dev/alx.delira
 
 
 
