@@ -20,7 +20,7 @@
   <img align="center" alt="Alx-Mongo" width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> 
   <img align="center" alt="Alx-mysql" width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="100" width="40" alt="nodejs logo"  />
+   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo"  />
  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="40" alt="react logo" />
 </div>
 
@@ -52,7 +52,7 @@
   <h2>Meus Animes Preferidos!  <span style="color: red;">&hearts;</span></h2>
   <img src="https://media0.giphy.com/media/aCPPZuaYAs1zy/giphy.gif?cid=ecf05e47oav1fzccsbmidss8b3ihfjfke4os1eaj9p2ulski&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="position:absolute">
   <img src="https://media1.giphy.com/media/QeVduzihVX69y/giphy.gif?cid=ecf05e47cr8pbzhrrvs614l7dd9lokblntkkqgt8n4i07d5m&ep=v1_gifs_related&rid=giphy.gif&ct=s" style="position:absolute">
-  <img src="https://media.tenor.com/kWGX4AZkn24AAAAd/mushoku-tensei.gif" height="40" style="position:absolute">
+  <img src="https://media.tenor.com/kWGX4AZkn24AAAAd/mushoku-tensei.gif" height="100" style="position:absolute">
 </div>
 
 <div align="center">
