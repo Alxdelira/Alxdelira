@@ -52,7 +52,7 @@
   <h2>Meus Animes Preferidos!  <span style="color: red;">&hearts;</span></h2>
   <img src="https://media0.giphy.com/media/aCPPZuaYAs1zy/giphy.gif?cid=ecf05e47oav1fzccsbmidss8b3ihfjfke4os1eaj9p2ulski&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="position:absolute">
   <img src="https://media1.giphy.com/media/QeVduzihVX69y/giphy.gif?cid=ecf05e47cr8pbzhrrvs614l7dd9lokblntkkqgt8n4i07d5m&ep=v1_gifs_related&rid=giphy.gif&ct=s" style="position:absolute">
-  <img src="https://media.tenor.com/kWGX4AZkn24AAAAd/mushoku-tensei.gif" style="position:absolute">
+  <img src="https://media.tenor.com/kWGX4AZkn24AAAAd/mushoku-tensei.gif" height="40" style="position:absolute">
 </div>
 
 <div align="center">
