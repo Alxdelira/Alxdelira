@@ -1,18 +1,18 @@
-name: Generate Datas
+name: Atualizar Animação da Grade de Contribuições
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Atualizar dados
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
+      # Gerar Animação da Cobrinha
       - uses: Platane/snk@master
-        id: snake-gif
+        id: gerar-animacao-cobrinha
         with:
           github_user_name: Alxdelira
           svg_out_path: dist/github-contribution-grid-snake.svg
