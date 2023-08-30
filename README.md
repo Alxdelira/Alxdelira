@@ -43,10 +43,6 @@
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab de Alexandre Nogueira">
   </a>
 </div>
-  
-<div align="center">
-  <img src="https://github.com/Alxdelira/Alxdelira/blob/output/github-contribution-grid-snake.svg" alt="Animação da cobrinha" />
-</div>
 
 <div align="center">
   <h2>Meus Animes Preferidos!  <span style="color: red;">&hearts;</span></h2>
@@ -59,5 +55,7 @@
   <h1> &#8595; Depois de estudar bastante Javascript fiquei assim!! &#8595;</h1>
   <img src="https://media1.giphy.com/media/agLzP4BYRPcOY/giphy.gif?cid=ecf05e47e3achlfslbvqexeig0vvdxysdelr50v3ep7nw6z9&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 </div>
-
-  
+<footer style="text-align: center; margin-top: 20px;">
+  <p>Entre em contato:</p>
+  <a href="mailto:alx.delira@example.com">Me Envie um E-mail!</a>
+</footer>
