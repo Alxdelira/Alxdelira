@@ -44,17 +44,6 @@
   </a>
 </div>
 
-<div align="center">
-  <h2>Meus Animes Preferidos!  <span style="color: red;">&hearts;</span></h2>
-  <img src="https://media0.giphy.com/media/aCPPZuaYAs1zy/giphy.gif?cid=ecf05e47oav1fzccsbmidss8b3ihfjfke4os1eaj9p2ulski&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="position:absolute">
-  <img src="https://media1.giphy.com/media/QeVduzihVX69y/giphy.gif?cid=ecf05e47cr8pbzhrrvs614l7dd9lokblntkkqgt8n4i07d5m&ep=v1_gifs_related&rid=giphy.gif&ct=s" style="position:absolute">
-  <img src="https://media.tenor.com/kWGX4AZkn24AAAAd/mushoku-tensei.gif" height="100" style="position:absolute">
-</div>
-
-<div align="center">
-  <h1> &#8595; Depois de estudar bastante Javascript fiquei assim!! &#8595;</h1>
-  <img src="https://media1.giphy.com/media/agLzP4BYRPcOY/giphy.gif?cid=ecf05e47e3achlfslbvqexeig0vvdxysdelr50v3ep7nw6z9&ep=v1_gifs_related&rid=giphy.gif&ct=g">
-</div>
 <footer style="text-align: center; margin-top: 20px;">
   <p>Entre em contato:</p>
   <a href="mailto:alx.delira@example.com">Me Envie um E-mail!</a>
