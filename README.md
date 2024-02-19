@@ -18,10 +18,10 @@
   <img align="center" alt="Alx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alx-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
   <img align="center" alt="Alx-Mongo" width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> 
-  <img align="center" alt="Alx-mysql" width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
+  
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo"  />
- <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="40" alt="react logo" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo"  />
+  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="40" alt="react logo" />
 </div>
 
 ##
@@ -44,7 +44,7 @@
   </a>
 </div>
 
-<footer style="text-align: center; margin-top: 20px;">
+<footer style="align: center; margin-top: 20px;">
   <p>Entre em contato:</p>
   <a href="mailto:alx.delira@example.com">Me Envie um E-mail!</a>
 </footer>
