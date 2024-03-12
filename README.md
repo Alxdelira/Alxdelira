@@ -56,5 +56,5 @@ company: ["FSLab" and "ZOOM Tecnologias"]
 
 ### 🚀 WakaTime [new insues!]
 
-[![Look's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alxdelira&theme=dracula)]
+![Look's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alxdelira&theme=dracula)
 
