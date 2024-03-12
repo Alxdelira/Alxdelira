@@ -15,7 +15,7 @@ education: [IFRO - Instituto Federal de Rondônia]
 company: ["FSLab" and "ZOOM Tecnologias"]
 ```
 
-📱 **Especialidades**
+📱 **Specialties**
 
 
 <div align="left">
@@ -27,8 +27,8 @@ company: ["FSLab" and "ZOOM Tecnologias"]
 </div>
 
 
+🛠️ **Tools**
 <div align="left">
-  <h3>Ferramentas</h3>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=" alt="Notion"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
@@ -38,22 +38,22 @@ company: ["FSLab" and "ZOOM Tecnologias"]
 </div>
 
 
-### 📊 Estatísticas no GitHub
+### 📊 GitHub Statistics
 
 ![Alxdelira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alxdelira&show_icons=true&theme=dracula)
 
-### 📌 Projetos em Destaque
+### 📌 Featured Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alxdelira&repo=levantamentoInventario&theme=dracula)](https://github.com/Alxdelira/levantamentoInventario)
 
-### 🚀 Linguagens Mais Usadas
+### 🚀 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alxdelira&layout=compact&theme=dracula)
 
 
 <footer style="align: center; margin-top: 20px;">
   <div align="center">
-  <p>Entre em contato:</p>
-  <a href="mailto:alx.delira@gmail.com">Me Envie um E-mail!</a>
+  <p>Contact me:</p>
+  <a href="mailto:alx.delira@gmail.com">Send me an Email!</a>
   </div>
 </footer>
