@@ -53,3 +53,8 @@ company: ["FSLab" and "ZOOM Tecnologias"]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alxdelira&layout=compact&theme=dracula)
 
+
+### 🚀 WakaTime [new insues!]
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alxdelira&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
