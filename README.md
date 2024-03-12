@@ -1,12 +1,42 @@
-### Olá, eu sou Alexandre Nogueira (Alxdelira) 👋
+### "Hello 👋, follow me here on GitHub." 
 
+<div align="left">
+  <p>
+    <a target="_blank" href="https://www.linkedin.com/in/alxdelira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </p>  
+</div>
 
-🏢 **Atuação Profissional**
-- 🚀 Software Developer
-- 🎓 Estudante de Curso Superior de Tecnologia (CST) Análise e Desenvolvimento de Sistemas [IFRO - VHA](https://portal.ifro.edu.br/vilhena)
+```yaml
+name: Alexandre Nogueira
+located_in: Vilhena - RO, Brazil
+from: GUajará-Mirim - RO, Brazil
+job: Software Developer
+education: [IFRO - Instituto Federal de Rondônia]
+company: ["FSLab" and "ZOOM Tecnologias"]
+```
 
 📱 **Especialidades**
-- 📚 Pergunte-me sobre JavaScript, Kotlin, desenvolvimento para Web e Mobile para Android!
+
+
+<div align="left">
+  <a href="https://github.com/Alxdelira?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://github.com/Alxdelira?tab=repositories&language=typescript"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://github.com/Alxdelira?tab=repositories&language=kotlin"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+  <a href="https://github.com/Alxdelira?tab=repositories&language=css"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
+  <a href="https://github.com/Alxdelira?tab=repositories&language=html"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
+</div>
+
+
+<div align="left">
+  <h3>Ferramentas</h3>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</div>
+
 
 ### 📊 Estatísticas no GitHub
 
@@ -20,9 +50,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alxdelira&layout=compact&theme=dracula)
 
+
 <footer style="align: center; margin-top: 20px;">
   <div align="center">
   <p>Entre em contato:</p>
-  <a href="mailto:alx.delira@example.com">Me Envie um E-mail!</a>
+  <a href="mailto:alx.delira@gmail.com">Me Envie um E-mail!</a>
   </div>
 </footer>
