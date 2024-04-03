@@ -29,6 +29,9 @@ company: ["FSLab" and "ZOOM Tecnologias"]
   <a href="https://github.com/Alxdelira?tab=repositories&language=git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT" /></a>
   <a href="https://github.com/Alxdelira?tab=repositories&language=node"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE" /></a>
   <a href="https://github.com/Alxdelira?tab=repositories&language=nextjs"><img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/></a>
+  <a href="https://github.com/Alxdelira?tab=repositories&language=nextjs"><img src="https://img.shields.io/badge/Android Studio-96c901.svg?style=for-the-badge&logo=android" alt="nextjs"/></a>
+  <a href="https://github.com/Alxdelira?tab=repositories&language=react"><img src="https://img.shields.io/badge/React Native-20232a.svg?style=for-the-badge&logo=react" alt="React Native"/></a>
+
 </div>
 
 
