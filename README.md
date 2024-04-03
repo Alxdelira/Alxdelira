@@ -1,11 +1,12 @@
-### "Hello 👋, follow me here on GitHub." 
+### "Hello 👋, follow me here on GitHub."  <img align="center" alt="watch" margin="10px" src="https://img.shields.io/github/followers/Alxdelira?style=social&label=Follow&maxAge=2592000" />
 
 <div align="left">
   <p>
   <a target="_blank" href="https://www.linkedin.com/in/alxdelira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a target="_blank" href="https://www.instagram.com/alx_delira"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
   <a href = "mailto:alx.delira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </p>  
+  </p> 
+   
 </div>
 
 ```yaml
@@ -25,8 +26,9 @@ company: ["FSLab" and "ZOOM Tecnologias"]
   <a href="https://github.com/Alxdelira?tab=repositories&language=css"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
   <a href="https://github.com/Alxdelira?tab=repositories&language=html"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
   <a href="https://github.com/Alxdelira?tab=repositories&language=react"><img src="https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34" alt="REACT.JS" /></a>
-  <a href="https://github.com/Alxdelira?tab=repositories&language=react"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT" /></a>
-  <a href="https://github.com/Alxdelira?tab=repositories&language=react"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE" /></a>
+  <a href="https://github.com/Alxdelira?tab=repositories&language=git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT" /></a>
+  <a href="https://github.com/Alxdelira?tab=repositories&language=node"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE" /></a>
+  <a href="https://github.com/Alxdelira?tab=repositories&language=nextjs"><img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/></a>
 </div>
 
 
