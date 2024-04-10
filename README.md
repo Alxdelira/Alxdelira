@@ -6,7 +6,7 @@
   <a target="_blank" href="https://www.instagram.com/alx_delira"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
   <a href = "mailto:alx.delira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p> 
-   
+   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alxdelira" alt="Alexandre Nogueira" /></a> </p>
 </div>
 
 ```yaml
