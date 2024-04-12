@@ -52,7 +52,7 @@ company: ["FSLab" and "ZOOM Tecnologias"]
 
 ### 📌 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alxdelira&repo=levantamentoInventario&theme=dracula)](https://github.com/Alxdelira/levantamentoInventario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alxdelira&repo=api-jfro&theme=dracula)](https://github.com/Alxdelira/api-jfro)
 
 ### 🚀 Most Used Languages
 
