@@ -1,12 +1,27 @@
-### "Hello 👋, follow me here on GitHub."  <img align="center" alt="watch" margin="10px" src="https://img.shields.io/github/followers/Alxdelira?style=social&label=Follow&maxAge=2592000" />
+<!--START_SECTION:header-->
+<div align="center">
+  <p align="center">
+     <p align="center">
+     <img 
+      alt="Lab's Open" 
+      src="./.github/assets/logo.png" 
+      width="300px" 
+    />
+    <h1>"Hello 👋, follow me here on GitHub."</h1>
+    <img align="center" alt="watch" margin="10px" src="https://img.shields.io/github/followers/Alxdelira?style=social&label=Follow&maxAge=2592000" />
+  </p>
+</div>
+<!--END_SECTION:header-->
 
-<div align="left">
+
+
+<div align="center">
   <p>
   <a target="_blank" href="https://www.linkedin.com/in/alxdelira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a target="_blank" href="https://www.instagram.com/alx_delira"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
   <a href = "mailto:alx.delira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p> 
-   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alxdelira&theme=algolia" alt="Alexandre Nogueira" /></a> </p>
+   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alxdelira&theme=algolia" alt="Alexandre Nogueira" /></a> </p>
 </div>
 
 ```yaml
@@ -19,7 +34,7 @@ company: ["FSLab" and "ZOOM Tecnologias"]
 ```
 
 📱 **Specialties**
-<div align="left">
+<div align="center">
   <a href="https://github.com/Alxdelira?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://github.com/Alxdelira?tab=repositories&language=typescript"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
   <a href="https://github.com/Alxdelira?tab=repositories&language=kotlin"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
@@ -36,7 +51,7 @@ company: ["FSLab" and "ZOOM Tecnologias"]
 
 
 🛠️ **Tools**
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=" alt="Notion"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
@@ -44,7 +59,7 @@ company: ["FSLab" and "ZOOM Tecnologias"]
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab"/>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>  
 </div>
-
+<br />
 
 ### 📊 GitHub Statistics
 
@@ -59,7 +74,20 @@ company: ["FSLab" and "ZOOM Tecnologias"]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alxdelira&layout=compact&theme=dracula)
 
 
-### 🚀 WakaTime [new insues!]
-
+### 🚀 WakaTime
 ![Look's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alxdelira&theme=dracula)
 
+<!--START_SECTION:footer-->
+<br/>
+<br/>
+<p align="center">
+  ⌨️ Feito com 💜 by <a href="https://portfolioalxdelira.vercel.app/">🖖 AlxDelira</a>
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://portfolioalxdelira.vercel.app/" target="_blank">
+    <img align="center" src="./.github/assets/footer.png" alt="banner"/>
+  </a>
+</p>
