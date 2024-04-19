@@ -8,14 +8,18 @@
       width="300px" 
     />
     <h1>"Hello 👋, follow me here on GitHub."</h1>
-    <img align="center" alt="watch" margin="10px" src="https://img.shields.io/github/followers/Alxdelira?style=social&label=Follow&maxAge=2592000" />
+    <img  alt="watch" margin="10px" src="https://img.shields.io/github/followers/Alxdelira?style=social&label=Follow&maxAge=2592000" />
+    <img src="https://komarev.com/ghpvc/?username=alxdelira&label=Profile%20views&color=0e75b6&style=flat" alt="alxdelira" />
+    
   </p>
+  
 </div>
 <!--END_SECTION:header-->
 
 
 
 <div align="center">
+
   <p>
   <a target="_blank" href="https://www.linkedin.com/in/alxdelira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a target="_blank" href="https://www.instagram.com/alx_delira"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
@@ -72,6 +76,8 @@ company: ["FSLab" and "ZOOM Tecnologias"]
 ### 🚀 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alxdelira&layout=compact&theme=dracula)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alxdelira&theme=dracula" alt="alxdelira" /></p>
 
 
 ### 🚀 WakaTime
