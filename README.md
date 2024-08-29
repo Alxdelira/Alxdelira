@@ -72,7 +72,7 @@ company: ["FSLab" and "ZOOM Tecnologias"]
 ### 📌 Featured Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alxdelira&repo=api-jfro&theme=dracula)](https://github.com/Alxdelira/api-jfro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alxdelira&repo=service-shopper-images&theme=dracula)](https://github.com/Alxdelira/service-shopper-images)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alxdelira&repo=service-shopper-iamges&theme=dracula)](https://github.com/Alxdelira/service-shopper-iamges)
 
 ### 🚀 Most Used Languages
 
