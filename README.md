@@ -34,7 +34,7 @@ located_in: Vilhena - RO, Brazil
 from: Guajará-Mirim - RO, Brazil
 job: Software Developer
 education: [IFRO - Instituto Federal de Rondônia]
-company: ["FSLab" and "ZOOM Tecnologias"]
+company: ["Grupo NetWay"]
 ```
 
 📱 **Specialties**
