@@ -68,51 +68,11 @@ Sou um desenvolvedor apaixonado por tecnologia, design de interfaces e soluçõe
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div>
 
----
-
-### 📊 Estatísticas GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alxdelira&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alxdelira&theme=dracula" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alxdelira&layout=compact&theme=dracula" alt="Top Languages"/>
-</div>
-
----
-
-### 🏆 Conquistas
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alxdelira&theme=algolia" alt="GitHub Trophies"/></a>
-</p>
-
----
-
-### 📌 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/Alxdelira/api-jfro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alxdelira&repo=api-jfro&theme=dracula" alt="API JFRO"/>
-  </a>
-  <a href="https://github.com/Alxdelira/service-shopper-iamges">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alxdelira&repo=service-shopper-iamges&theme=dracula" alt="Service Shopper"/>
-  </a>
-</div>
-
----
-
-### ⏱️ WakaTime
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alxdelira&theme=dracula" alt="WakaTime Stats"/>
-</div>
-
----
 
 ### ⚡ Contato e Portfólio
 
 <p align="center">
-  ⌨️ Feito com 💜 por <a href="https://portfolioalxdelira.vercel.app/">🖖 AlxDelira</a>
+  ⌨️ Feito com 💜 por <a href="https://nogueira.dev.br">🖖 AlxDelira</a>
 </p>
 
 <p align="center">
