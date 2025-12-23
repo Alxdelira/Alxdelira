@@ -34,7 +34,7 @@ Sou um desenvolvedor apaixonado por tecnologia, design de interfaces e soluçõe
 ### 📫 Conecte-se comigo
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/alxdelira/](https://www.linkedin.com/in/alexandrenogueira-dev/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alexandrenogueira-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/alx.delira" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:alx.delira@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
