@@ -1,82 +1,73 @@
 <!--START_SECTION:header-->
 <div align="center">
-  <img 
-    alt="Lab's Open" 
-    src="./.github/assets/logo.png" 
-    width="250px" 
-  />
-  
-  <h1 align="center">👋 Olá, seja bem-vindo ao meu universo dev!</h1>
+  <img alt="Logo pessoal do Alexandre" src="./.github/assets/logo.png" width="160" />
+
+  <h1 align="center">Alexandre Nogueira de Lira</h1>
+
   <p align="center">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Alxdelira?style=social&label=Follow" />
-    <img src="https://komarev.com/ghpvc/?username=alxdelira&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    Tech Lead · Full‑Stack / Data · Sistemas web, APIs e automação
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/alexandrenogueira-dev/" target="_blank" rel="noreferrer">LinkedIn</a>
+    ·
+    <a href="https://nogueira.dev.br" target="_blank" rel="noreferrer">Site</a>
+    ·
+    <a href="https://nogueira.dev.br/" target="_blank" rel="noreferrer">Portfólio</a>
+    ·
+    <a href="mailto:alx.delira@gmail.com">Email</a>
+  </p>
+
+  <p align="center">
+    <img alt="Seguidores no GitHub" src="https://img.shields.io/github/followers/Alxdelira?style=flat" />
+    <img alt="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=alxdelira&label=views&color=0e75b6&style=flat" />
   </p>
 </div>
 <!--END_SECTION:header-->
 
 ---
 
-### ✨ Sobre mim
+## Visão geral
+Atuo como Tech Lead no Grupo NetWay, com foco em arquitetura pragmática, integração de APIs, automação de processos e entrega consistente. Trabalho com padrões e boas práticas que favorecem legibilidade, observabilidade e evolução segura do produto.
 
-```yaml
-nome: Alexandre Nogueira de Lira
-local: Vilhena - RO, Brasil
-origem: Guajará-Mirim - RO, Brasil
-atuação: Software Developer
-formação: IFRO - Instituto Federal de Rondônia
-empresa: Grupo NetWay
-```
-
-Sou um desenvolvedor apaixonado por tecnologia, design de interfaces e soluções inteligentes. Tenho grande interesse em sistemas escaláveis, automações e integração de APIs — sempre guiado pelo ideal da Verdade e da evolução constante.
+- Base: Vilhena/RO (BR) · Origem: Guajará‑Mirim/RO
+- Formação: FAEL
+- Especializações: Engenharia de Dados · Desenvolvimento Web · MBA Gestão Corporativa
 
 ---
 
-### 📫 Conecte-se comigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/alexandrenogueira-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/alx.delira" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:alx.delira@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+## Áreas de atuação
+- Arquitetura e evolução de serviços (APIs, integrações e automações).
+- Desenvolvimento full‑stack com foco em qualidade, padronização e manutenção.
+- Dados para tomada de decisão (modelagem, pipelines e analytics quando aplicável).
 
 ---
 
-### 🧠 Tecnologias e Especialidades
+## Stack
+**Backend**
+- Node.js · TypeScript/JavaScript · Nest.Js · Express
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React Native-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
+**Frontend / Mobile**
+- React · Next.js · React Native · HTML · CSS
+
+**Linguagens adicionais**
+- Kotlin · Java · Python
 
 ---
 
-### 🛠️ Ferramentas e Plataformas
+## Ferramentas
+- GitHub · GitLab · Vercel
+- VS Code · Figma · Notion
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-</div>
+---
 
-
-### ⚡ Contato e Portfólio
+## Contato
+- LinkedIn: https://www.linkedin.com/in/alexandrenogueira-dev/
+- Instagram: https://www.instagram.com/alx.delira
+- Email: mailto:alx.delira@gmail.com
 
 <p align="center">
-  ⌨️ Feito com 💜 por <a href="https://nogueira.dev.br">🖖 AlxDelira</a>
-</p>
-
-<p align="center">
-  <a href="https://portfolioalxdelira.vercel.app/" target="_blank">
-    <img src="./.github/assets/footer.png" alt="Banner" width="80%" />
+  <a href="https://portfolioalxdelira.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="./.github/assets/footer.png" alt="Banner com link para o portfólio" width="80%" />
   </a>
 </p>
