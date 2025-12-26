@@ -68,6 +68,6 @@ Atuo como Tech Lead no Grupo NetWay, com foco em arquitetura pragmática, integr
 
 <p align="center">
   <a href="https://portfolioalxdelira.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="./.github/assets/footer.png" alt="Banner com link para o portfólio" width="80%" />
+    <img src="./.github/assets/footer.png" alt="Banner com link para o portfólio" width="100%" />
   </a>
 </p>
