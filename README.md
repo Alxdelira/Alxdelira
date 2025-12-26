@@ -28,7 +28,7 @@
 ---
 
 ## Visão geral
-Atuo como Tech Lead no Grupo NetWay, com foco em arquitetura pragmática, integração de APIs, automação de processos e entrega consistente. Trabalho com padrões e boas práticas que favorecem legibilidade, observabilidade e evolução segura do produto.
+Atuo como Tech Lead no Grupo NetWay, com foco em arquitetura de software, integração de APIs, automação de processos e entrega consistente. Trabalho com padrões e boas práticas que favorecem legibilidade, observabilidade e evolução segura do produto.
 
 - Base: Vilhena/RO (BR) · Origem: Guajará‑Mirim/RO
 - Formação: FAEL
