@@ -5,7 +5,7 @@
   <h1 align="center">Alexandre Nogueira de Lira</h1>
 
   <p align="center">
-    Tech Lead · Full‑Stack / Data · Sistemas web, APIs e automação
+    Full‑Stack / Data · Sistemas web, APIs e automação
   </p>
 
   <p align="center">
