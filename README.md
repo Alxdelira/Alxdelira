@@ -17,7 +17,7 @@
     <a href="https://nogueira.dev.br" target="_blank" rel="noreferrer">
       <img alt="Site pessoal" src="https://img.shields.io/badge/Site-nogueira.dev.br-020617?style=for-the-badge&logo=vercel&logoColor=white">
     </a>
-    <a href="https://nogueira.dev.br" target="_blank" rel="noreferrer">
+    <a href="https://nogueira.dev.br/#projetos" target="_blank" rel="noreferrer">
       <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-Projetos%20Reais-38BDF8?style=for-the-badge&logo=react&logoColor=white">
     </a>
     <a href="mailto:alx.delira@gmail.com">
