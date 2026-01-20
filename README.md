@@ -85,12 +85,21 @@ No **Grupo NetWay**, atuo na interseção entre times técnicos e áreas de neg�
 <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React-38BDF8?style=for-the-badge&logo=react&logoColor=white">
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img alt="JavaScript"   src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="Express.js"   src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+
 
 ### Dados & Bancos
 
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+<img alt="MySQL"  src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-10AA50?style=for-the-badge&logo=mongodb&logoColor=white">
 <img alt="Metabase" src="https://img.shields.io/badge/Metabase-1C3554?style=for-the-badge&logo=metabase&logoColor=white">
+<img alt="Looker Studio" src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white">
+<img alt="DBeaver"       src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
+<img alt="Power BI"      src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
 
 ### DevOps & Tooling
 
@@ -99,6 +108,10 @@ No **Grupo NetWay**, atuo na interseção entre times técnicos e áreas de neg�
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img alt="Figma"        src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img alt="n8n"          src="https://img.shields.io/badge/n8n-1a1a1a?style=for-the-badge&logo=n8n&logoColor=white">
+
 
 </div>
 
